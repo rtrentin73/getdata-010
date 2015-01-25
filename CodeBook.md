@@ -44,4 +44,4 @@ The following files are available for the train and test data. Their description
 
 # The R code
 
-The R code merges the training and the test sets to create one data set. It extracts only the measurements on the mean and standard deviation for each measurement and uses descriptive activity names to name the activities in the data set . Descriptive Labels are associated to datasets providing variable names. A tidy data set is create with the average of each variable for each activity and each subject.
+The R code merges the training and the test sets to create one data set. It extracts only the measurements on the mean and standard deviation for each measurement and uses descriptive activity names to name the activities in the data set. Descriptive Labels are associated to datasets providing variable names. A tidy data set is created (UCI_HAR_tidy.csv) with the average of each variable for each activity and each subject.
